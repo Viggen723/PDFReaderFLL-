@@ -1,7 +1,7 @@
 package com.mycompany.pdfreader;
 
 /**
- * // Main mehtod that is used for testing (text-based)
+ * // Main method that is used for testing (text-based)
  * @author Adam James Roy
  */
 
