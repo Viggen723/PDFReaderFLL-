@@ -24,7 +24,7 @@
                 <exec.appArgs></exec.appArgs>
                 <exec.mainClass>${packageClassName}</exec.mainClass>
                 <exec.executable>java</exec.executable>
-                <Env.OPENAI_API_KEY>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</Env.OPENAI_API_KEY>
+                
                 
                 
                 
